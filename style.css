@@ -1,0 +1,55 @@
+
+.top{
+  margin-top: 75px;
+}
+.hero{
+  padding-top: 60px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.hero-text{
+  font-family: verdana;
+}
+.title{
+  font-size: 75px;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+}
+.title-sub-text{
+  margin-top: 20px;
+  font-size: 25px;
+}
+.hero-img{
+  min-width: 5%;
+}
+.display-3{
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.jumbotron{
+  background-color: #1a1a1a;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+.lead-text{
+  padding-bottom: 20px;
+  margin-right: 50vh;
+}
+.lead{
+  color: lightgrey;
+}
+.btn-subtxt{
+  margin-left: 10px;
+}
+
+.header{
+  margin-top: 15vh;
+  text-align: center;
+  font-family: impact;
+  letter-spacing:10px;
+}
+.header-txt{
+  font-size: 20px;
+  font-family: arial;
+  letter-spacing: normal;
+}
